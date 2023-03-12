@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ยินดีต้อนรับ สู่บ้านของกระผม.</h1>
 <p align="center"><a href="#"><img width="80%" alt="Hello, I'm Thunwa Developer!" src="https://res.cloudinary.com/dpuucc9ps/image/upload/v1678645958/headergit_hbvuqw.png" /></a></p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=I'm+Thunwa+I'm+Developer+%F0%9F%AB%A5+)](https://git.io/typing-svg)
+
 <p>สวัสดีผู้เข้าชมทุกท่าน! </br> ผมชื่อ ธันวา Frontend Developer from  <img src="https://cdn-icons-png.flaticon.com/512/555/555495.png" width="13"/> </p>
 <h3>ประสบการณ์โค้ด ดิ้ง!</h3>
 <p>
@@ -58,7 +60,7 @@
     <tr>
       <td><a href="https://github.com/vathunwa007/Chiken"><b>Project Chiken AUCC</b></a></td>
       <td><img alt="Watch" src="https://img.shields.io/github/watchers/vathunwa007/Chiken?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="languages" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></td>
+      <td><img alt="languages" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/vathunwa007/google_map_v3_api_All"><b>Save GoogleMapApi Modify</b></a></td>
@@ -75,4 +77,4 @@
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 12 March, 16:01 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+<p align="center"><img src="https://github.com/vathunwa007/vathunwa007/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/vathunwa007/vathunwa007?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
