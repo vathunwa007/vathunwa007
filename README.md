@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ยินดีต้อนรับ สู่บ้านของกระผม.</h1>
+<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Thunwa Developer!" src="https://res.cloudinary.com/dpuucc9ps/image/upload/v1678645958/headergit_hbvuqw.png" /></a></p>
 
-
-<p>สวัสดีผู้เข้าชมทุกท่าน! </br> ผมชื่อ ธันวา Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/512/555/555495.png" width="13"/> .</p>
+<p>สวัสดีผู้เข้าชมทุกท่าน! </br> ผมชื่อ ธันวา Frontend Developer from  <img src="https://cdn-icons-png.flaticon.com/512/555/555495.png" width="13"/> </p>
 <h3>ประสบการณ์โค้ด ดิ้ง!</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -58,7 +58,7 @@
 </table>
 
 <h3>สามารถติดต่อได้ที่ </h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a>
+<p><a href="https://github.com/vathunwa007" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> </a>
 </p>
 
 ------------
