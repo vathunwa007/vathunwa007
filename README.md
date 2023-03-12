@@ -37,15 +37,13 @@
     <a href="https://github.com/vathunwa007/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vathunwa007&show_icons=true&theme=radical)
 
-    </a>
   </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathunwa007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vathunwa007&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
 <h3>โปรเจคตัวอย่าง!</h3>
@@ -88,4 +86,4 @@
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 12 March, 16:01 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/vathunwa007/vathunwa007/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/vathunwa007/vathunwa007?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+<p align="center">⭐ <img alt="Stars" src="https://img.shields.io/github/stars/vathunwa007/vathunwa007?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
