@@ -33,6 +33,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<p align=center>
 <div align=center>
    <a href="https://github.com/vathunwa007/github-readme-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathunwa007&layout=compact&theme=radical" alt="zumrudu-anka" />
@@ -45,8 +46,9 @@
 
 <div align=center>
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=vathunwa007&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-  </div>
-
+</div>
+<br><br><br>
+</p>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vathunwa007&show_icons=true&theme=radical) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathunwa007&layout=compact&theme=radical)](https://github.com/vathunwa007/github-readme-stats) -->
