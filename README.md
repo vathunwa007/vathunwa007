@@ -42,9 +42,15 @@
     </a>
   </div>
 
+<div align=center>
+    <a href="https://github.com/vathunwa007/github-readme-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathunwa007&layout=compact&theme=radical" alt="zumrudu-anka" />
+    </a>
+  </div>
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vathunwa007&show_icons=true&theme=radical) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathunwa007&layout=compact&theme=radical)](https://github.com/vathunwa007/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathunwa007&layout=compact&theme=radical)](https://github.com/vathunwa007/github-readme-stats) -->
 
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=vathunwa007&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
