@@ -33,9 +33,20 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<div align=center>
+    <a href="https://github.com/vathunwa007/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vathunwa007&show_icons=true&theme=radical)
 
+    </a>
+  </div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathunwa007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 
 <h3>โปรเจคตัวอย่าง!</h3>
 <table>
