@@ -37,9 +37,8 @@
     <a href="https://github.com/vathunwa007/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vathunwa007&show_icons=true&theme=radical)
-
   </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vathunwa007&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathunwa007&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -86,4 +85,4 @@
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 12 March, 16:01 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center">⭐ <img alt="Stars" src="https://img.shields.io/github/stars/vathunwa007/vathunwa007?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+<p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/vathunwa007/vathunwa007?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/watchers/vathunwa007/vathunwa007?style=flat-square&labelColor=343b41"/></p>
